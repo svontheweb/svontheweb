@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svontheweb
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @svontheweb
 - 👀 I’m interested in everything technological 
 - 🌱 I’m currently learning full-stack
 <!---
@@ -37,8 +37,7 @@ You can click the Preview link to take a look at your changes.
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=svontheweb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-### Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svontheweb)](https://github.com/svontheweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svontheweb)]
 
 [linkedin]: https://linkedin.com/in/svontheweb
 [twitter]: https://twitter.com/svontheweb
