@@ -1,7 +1,5 @@
-[![MasterHead](https://github.com/svontheweb/svontheweb/blob/main/github-header-v.png)](linktr.ee/svontheweb)
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sujeet Verma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svontheweb&label=Profile%20views&color=0e75b6&style=flat" alt="svontheweb" /> </p>
