@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svontheweb&label=Profile%20views&color=0e75b6&style=flat" alt="svontheweb" /> </p>
 
-- 🔭 I’m currently working on **CP and development skills**
+- 🔭 I’m currently working as an **associate software develooper**
+
+- 🏴‍☠️ Building and debugging on daily basis.
 
 - 👨‍💻 All of my projects are available at [here](linktr.ee/svontheweb)
 
